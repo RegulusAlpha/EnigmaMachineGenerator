@@ -16,33 +16,33 @@ Here's a breakdown of what the program does:
 
     The loop repeats for each day (365 days in this case), generating and printing different settings for each day.
 
-Overall, the program simulates the generation of Enigma machine settings for each day, with random rotor positions, types, ring positions, reflector positions, and plugboard pairings.
+Overall, the program simulates the generation of Enigma machine settings for each day, with random rotor positions, types, ring positions, reflector positions, and plugboard pairings. <br>
 
-Here are example settings with an encoded message:
+Here are example settings with an encoded message: <br>
 
-Rotor 1 z
-Rotor 2 b
-Rotor 3 f
-Rotor 1 type 2
-Rotor 2 type 4
-Rotor 3 type 3
-Rotor 1 Ring Position b
-Rotor 2 Ring Position d
-Rotor 3 Ring Position u
-reflector b
-l - e
-y - h
-f - x
-r - t
-a - g
-q - u
-p - w
-j - z
-s - v
-d - n
-m - i
-c - k
-b - o
-
-Message: MJDHN SIFJZ RLVSO VJVDE MMEXC EXANZ YLWOU VX
-Can you decrypt it?
+Rotor 1 z <br>
+Rotor 2 b <br>
+Rotor 3 f <br>
+Rotor 1 type 2 <br>
+Rotor 2 type 4 <br>
+Rotor 3 type 3 <br>
+Rotor 1 Ring Position b <br>
+Rotor 2 Ring Position d <br>
+Rotor 3 Ring Position u <br>
+reflector b <br>
+l - e <br>
+y - h <br>
+f - x <br>
+r - t <br>
+a - g <br>
+q - u <br>
+p - w <br>
+j - z <br>
+s - v <br>
+d - n <br>
+m - i <br>
+c - k <br>
+b - o <br>
+ <br>
+Message: MJDHN SIFJZ RLVSO VJVDE MMEXC EXANZ YLWOU VX <br>
+Can you decrypt it? <br>
