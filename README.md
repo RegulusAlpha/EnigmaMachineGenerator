@@ -1,4 +1,4 @@
-# EnigmaMachineGenerator
+# Enigma Machine Settings Generator
 Randomly generate settings for the enigma machine
 using the Enigma Machine in the microsoft store by DougalMcray https://www.microsoft.com/store/productId/9WZDNCRDGKZD?ocid=pdpshare
 
