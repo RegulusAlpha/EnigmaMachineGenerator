@@ -15,4 +15,4 @@ Here's a breakdown of what the program does:
 
     The loop repeats for each day (365 days in this case), generating and printing different settings for each day.
 
-Overall, the program simulates the generation of Enigma machine settings for each day, with random rotor positions, types, ring positions, reflector positions, and plugboard pairings. The settings appear to be printed in a format suitable for configuring an Enigma machine.
+Overall, the program simulates the generation of Enigma machine settings for each day, with random rotor positions, types, ring positions, reflector positions, and plugboard pairings.
